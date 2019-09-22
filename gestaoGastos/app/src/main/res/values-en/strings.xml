@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Expenses</string>
+    <string name="btn">Btn</string>
+    <string name="dataGasto">Date of Expenditure</string>
+    <string name="localGasto">Place</string>
+    <string name="tipoGasto">Expense Type</string>
+    <string name="valorGasto">Expense Amount</string>
+    <string name="cadastrar">Register</string>
+    <string name="deletarGasto">Delete This Expense</string>
+    <string name="modificar">Modify</string>
+    <string name="novoCadastro">New Register</string>
+    <string name="error">Enter The Expense Amount</string>
+</resources>

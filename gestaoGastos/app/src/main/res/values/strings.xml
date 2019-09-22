@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gastos</string>
+    <string name="tipoGasto">Tipo de Gasto</string>
+    <string name="valorGasto">Valor Gasto</string>
+    <string name="btn">Btn</string>
+    <string name="localGasto">Local</string>
+    <string name="dataGasto">Data do Gasto</string>
+    <string name="novoCadastro">Novo Cadastro</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="modificar">Modificar</string>
+    <string name="deletarGasto">Deletar Este Gasto</string>
+    <string name="error">Informe o Valor do Gasto</string>
+</resources>
